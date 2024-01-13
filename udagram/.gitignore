@@ -1,0 +1,4 @@
+set_env.sh
+set_env.sh
+*./udagram-api/node_modules
+*./udagram-frontend/node_modules
